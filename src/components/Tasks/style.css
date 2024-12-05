@@ -1,0 +1,9 @@
+.task{
+    border: 2px solid rgba(19, 211, 166, 0.922);
+    padding: 10px 20px;
+    margin: 10px 0px;
+}
+
+.task h2{
+    text-transform: uppercase;
+}
